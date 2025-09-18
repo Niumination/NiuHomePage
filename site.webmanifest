@@ -1,8 +1,8 @@
 {
-    "name": "StartpagePlox",
-    "short_name": "SPP",
-    "description": "Startpage por Alplox",
-    "lang": "es",
+    "name": "Niu Homepage",
+    "short_name": "NH",
+    "description": "Homepage by Niu",
+    "lang": "en",
     "categories": [
         "startpage",
         "productivity",
@@ -13,8 +13,8 @@
     "background_color": "#0a0a0a",
     "display": "standalone",
     "orientation": "any",
-    "start_url": "/StartpagePlox/",
-    "id": "/StartpagePlox/",
+    "start_url": "/NiuHomePage/",
+    "id": "/NiuHomePage/",
     "edge_side_panel": {
         "preferred_width": 545
     },
